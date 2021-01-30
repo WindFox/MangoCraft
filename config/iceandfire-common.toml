@@ -233,7 +233,7 @@
 	"Generate Dragon Cave Chance" = 180
 	#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default
 	#Range: 0 ~ 2
-	"Dragon Griefing" = 1
+	"Dragon Griefing" = 2
 	#A double check to see if the game can spawn cockatrices. Higher number = lower chance to spawn.
 	#Range: 0 ~ 10000
 	"Cockatrice Spawn Check Chance" = 0
