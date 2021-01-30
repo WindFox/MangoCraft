@@ -1,9 +1,9 @@
 #Noise added to map to make it look less plastic
 #Range: 0.0 ~ 0.5
-noise = 0.05
+noise = 0.05000000074505806
 #Shadow intensity
 #Range: 0.0 ~ 0.3
-shadows = 0.1
+shadows = 0.10000000149011612
 #Chunk grid overlay in large map
 chunk_grid = false
 #Reduces color palette to 256 colors
@@ -30,15 +30,15 @@ water_height_factor = 8
 minimap = "TOP_RIGHT"
 #Scale of minimap
 #Range: 0.25 ~ 4.0
-minimap_scale = 1.0
+minimap_scale = 1.3
 #Minimap will not rotate
-minimap_locked_north = true
+minimap_locked_north = false
 #Show waypoints on minimap
 minimap_waypoints = true
 #Show entities on minimap
 minimap_entities = true
 #Show entity heads on minimap
-minimap_entity_heads = true
+minimap_entity_heads = false
 #Show player heads on minimap
 minimap_player_heads = true
 #Entities in minimap will be larger

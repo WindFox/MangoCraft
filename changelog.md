@@ -23,7 +23,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Semantic Versioning]: https://semver.org/
 
 <!-- Versions -->
-[Unreleased]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files
+[Unreleased]: https://github.com/WindFox/MangoCraft
 [Released]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files
-[0.0.2]: https://github.com/Author/Repository/compare/v0.0.1..v0.0.2
-[0.0.1]: https://github.com/Author/Repository/releases/v0.0.1
+[2.0.0-alpha.1]: https://github.com/WindFox/MangoCraft/tree/version-2.0.0

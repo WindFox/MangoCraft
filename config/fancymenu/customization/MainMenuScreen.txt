@@ -210,7 +210,7 @@ customization {
   backgroundhovered = fancythings/feedback.png
   label = 
   backgroundnormal = fancythings/feedback.png
-  value = https://www.curseforge.com/minecraft/modpacks/mangocraft/issues
+  value = https://github.com/WindFox/MangoCraft/issues
   height = 20
 }
 
@@ -224,7 +224,7 @@ customization {
   backgroundhovered = fancythings/news.png
   label = 
   backgroundnormal = fancythings/news.png
-  value = https://pastebin.com/XnyWSVVw
+  value = https://github.com/WindFox/MangoCraft/blob/master/changelog.md
   height = 20
 }
 
