@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 ### Added
 - Moved to MC 1.16.5 / Forge 36.0.10
 - Changed main menu a bit
+- Disabled dragon griefing
 
 ---
 
