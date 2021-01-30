@@ -1,0 +1,230 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = background
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-right
+  x = -131
+  action = movebutton
+  y = -33
+}
+
+customization {
+  identifier = %id=400322%
+  width = 130
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = fancythings/multiplayer-hover.png
+  backgroundnormal = fancythings/multiplayer.png
+}
+
+customization {
+  identifier = %id=400322%
+  action = sethoverlabel
+  label = PARTY TIME!
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-right
+  x = -80
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=400382%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = fancythings/options-hover.png
+  backgroundnormal = fancythings/options.png
+}
+
+customization {
+  identifier = %id=400382%
+  action = sethoverlabel
+  label = Hrm...
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 1.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-right
+  x = -50
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=502382%
+  width = 50
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = fancythings/quit-hover.png
+  backgroundnormal = fancythings/quit.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = sethoverlabel
+  label = Aww...
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-right
+  x = -131
+  action = movebutton
+  y = -57
+}
+
+customization {
+  identifier = %id=400298%
+  width = 130
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = fancythings/singleplayer-hover.png
+  backgroundnormal = fancythings/singleplayer.png
+}
+
+customization {
+  identifier = %id=400298%
+  action = sethoverlabel
+  label = So lonely...
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 0.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  path = fancythings/mangocraft.png
+  orientation = top-centered
+  x = -163
+  width = 326
+  action = addtexture
+  y = 16
+  height = 43
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = -27
+  width = 20
+  action = addbutton
+  y = -20
+  backgroundhovered = fancythings/feedback.png
+  label = 
+  backgroundnormal = fancythings/feedback.png
+  value = https://www.curseforge.com/minecraft/modpacks/mangocraft/issues
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = 0
+  width = 20
+  action = addbutton
+  y = -20
+  backgroundhovered = fancythings/news.png
+  label = 
+  backgroundnormal = fancythings/news.png
+  value = https://pastebin.com/XnyWSVVw
+  height = 20
+}
+
