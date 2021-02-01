@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.0.0-alpha.2] - 2021-02-01
+- Added some QoL mods for users and ops
+- Mod updates
+- Config changes for some mods
+
+---
+
+## [Released]
+
 ## [2.0.0-alpha.1] - 2021-01-29
 - Initial version. Based off my personal modpack "Adventure 16"
 
@@ -12,10 +21,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Moved to MC 1.16.5 / Forge 36.0.10
 - Changed main menu a bit
 - Disabled dragon griefing
-
----
-
-## [Released]
 
 ---
 
@@ -27,3 +32,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Unreleased]: https://github.com/WindFox/MangoCraft
 [Released]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files
 [2.0.0-alpha.1]: https://github.com/WindFox/MangoCraft/tree/version-2.0.0
+[2.0.0-alpha.2]: https://github.com/WindFox/MangoCraft/tree/version-2.0.0
