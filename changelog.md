@@ -5,6 +5,48 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.0.0-alpha.3] - 2021-02-13
+
+### Added
+- EnderChests
+- EnderTanks
+- Pillagers
+- Yung's Better Portals
+
+### Updated
+- Alex's Mobs
+- Architectury
+- Biomes O' Plenty
+- Botany Trees
+- Champions
+- Citadel
+- Controlling
+- Dimentional Dungeons
+- Dungeons Plus
+- Dynamic Surroundings
+- Engineer's Decor
+- Engineer's Tools
+- Fancy Menu
+- ftb-gui-lib
+- FTB Ranks
+- GeckoLib
+- Guard Villagers
+- JEI
+- Konkrete
+- Kotlin
+- Macaw's Windows
+- More Overlays
+- Mouse Tweaks
+- Moving Elevators
+- Nature's Compass
+- Outer End (Fixes Crystal Crag gen, YAYS!)
+- Quark
+- Redstone Gagues and Switches
+- Scuba Gear
+- Serene Seasons
+- Supplementaries
+- Tetra
+- Tom's Storage
 ---
 
 ## [Released]

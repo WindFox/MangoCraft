@@ -2,6 +2,8 @@
 [general]
 	#Whether polar bears should target seal mobs.
 	polarBearsAttackSeals = true
+	#Whether bone serpents are neutral or hostile.
+	neutralBoneSerpents = false
 	#Whether to disable certain aspects of the Lava Vision Potion. Enable if issues with shaders persist.
 	shadersCompat = false
 	#1 out of this number chance for leaves to drop a banana when broken. Fortune is automatically factored in
@@ -11,6 +13,8 @@
 	soulVultureSpawnOnFossil = true
 	#Whether wild raccoons steal food from chests.
 	raccoonStealFromChests = true
+	#Whether fish oil gives players a special levitation effect.
+	fishOilMeme = true
 	#Whether mimicubes spawns should be restricted solely to the end city structure or to whatever biome is specified in their respective biome config.
 	mimicubeSpawnInEndCity = true
 	#Whether mimicream can be used to duplicate items.
@@ -38,6 +42,8 @@
 	mimicreamBlacklist = ["alexsmobs:blood_sprayer"]
 	#Whether wolves should target moose mobs.
 	wolvesAttackMoose = true
+	#Whether wandering traders offer items like acacia blossoms, mosquito larva, crocodile egg, etc.
+	wanderingTraderOffers = true
 
 	[general.spawning]
 		#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
