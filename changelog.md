@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 ### Added
 - EnderChests
 - EnderTanks
+- Majrusz's Progressive Difficulty
+- OpenBlocks Elevator
 - Pillagers
 - Yung's Better Portals
 
@@ -22,8 +24,11 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Citadel
 - Controlling
 - Dimentional Dungeons
+- Doggy Talents
 - Dungeons Plus
 - Dynamic Surroundings
+- Ender Chests
+- Ender Tanks
 - Engineer's Decor
 - Engineer's Tools
 - Fancy Menu
@@ -40,12 +45,15 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Moving Elevators
 - Nature's Compass
 - Outer End (Fixes Crystal Crag gen, YAYS!)
+- Patchouli
 - Quark
 - Redstone Gagues and Switches
 - Scuba Gear
 - Serene Seasons
+- Shetiphiancore
 - Supplementaries
 - Tetra
+- The Abyss 2
 - Tom's Storage
 ---
 
