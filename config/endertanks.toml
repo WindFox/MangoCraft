@@ -86,6 +86,6 @@ enable_in_world_coloring = true
 [integration]
 	store_mekanism_gas = true
 	store_mekanism_infusion = true
-	store_mekanism_pigment = true
 	store_mekanism_slurry = true
+	store_mekanism_pigment = true
 
