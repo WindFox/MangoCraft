@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+---
+
+## [Released]
+
 ## [2.0.0-alpha.3] - 2021-02-13
 
 ### Added
@@ -13,6 +17,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Majrusz's Progressive Difficulty
 - OpenBlocks Elevator
 - Pillagers
+- Vending Tile
 - Yung's Better Portals
 
 ### Updated
@@ -55,9 +60,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Tetra
 - The Abyss 2
 - Tom's Storage
----
-
-## [Released]
 
 ## [2.0.0-alpha.2] - 2021-02-01
 - Added some QoL mods for users and ops
@@ -86,3 +88,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Released]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files
 [2.0.0-alpha.1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0-alpha.1
 [2.0.0-alpha.2]: https://github.com/WindFox/MangoCraft/releases/tag/2.0-alpha.2
+[2.0.0-alpha.3]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-alpha.3
