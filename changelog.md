@@ -5,6 +5,52 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.0.0-alpha.4] - 2021-02-19
+- Hopefully the last one
+- Updated to Forge 36.0.40
+- Changed worldgen to TerraForged
+
+### Added
+- Clumps
+- Cooking for Blockheads
+- Create Crafts & Additions
+- Default Options
+- Fairy Lights
+- TerraForged
+- Tetranomicon
+
+### Updated
+- Abnormals Core
+- Alex's Mobs
+- Architectury
+- Backpacked
+- Backpacker
+- Better Portals
+- Building Gadgets
+- Champions
+- Citadel
+- Dynamic Surroundings
+- Ender Chests
+- Ender Tanks
+- Engineer's Decor
+- FTB GUI Lib
+- Gecko Lib
+- Guard Villagers
+- Ice and Fire
+- Immersive Engineering
+- Kotlin
+- Majrusz Lib
+- Mana and Artifice
+- Neapolitan
+- Patchouli
+- Potion Descriptions
+- Quark
+- Repurposed Structures
+- Supplementaries
+- The Abyss
+- Tom's Storage
+- Waystones
+
 ---
 
 ## [Released]
