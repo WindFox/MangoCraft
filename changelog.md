@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
-## [2.0.0-alpha.4] - 2021-02-19
+## [2.0.0-rc1] - 2021-02-19
 - Hopefully the last one
 - Updated to Forge 36.0.40
 - Changed worldgen to TerraForged
@@ -14,10 +14,18 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Clumps
 - Cooking for Blockheads
 - Create Crafts & Additions
-- Default Options
+- Decorative Blocks + Modded Compat
 - Fairy Lights
+- Jade
+- Open Loader
+- Platforms
 - TerraForged
 - Tetranomicon
+- Tips
+- Waila Harvestability
+
+### Removed
+- The One Probe
 
 ### Updated
 - Abnormals Core

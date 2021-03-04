@@ -1,0 +1,10 @@
+{
+    "title": {
+        "text": "Not all woods are created equal!",
+        "bold": true,
+        "color": "green"
+    },
+    "tip":{
+        "text": "For Tetra tools, the kind of wood you use may have different stats or even traits! Check the Holosphere!"
+    }
+}

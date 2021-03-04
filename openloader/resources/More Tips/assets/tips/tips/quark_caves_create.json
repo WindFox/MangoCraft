@@ -1,0 +1,10 @@
+{
+    "title": {
+        "text": "Infinite Lava!",
+        "bold": true,
+        "color": "green"
+    },
+    "tip":{
+        "text": "Quark mega caves have enough lava in them that Create's Hose Pully will consider it infinite!"
+    }
+}

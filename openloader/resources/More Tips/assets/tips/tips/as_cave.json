@@ -1,0 +1,10 @@
+{
+    "title": {
+        "text": "Cave Illuminators work all the time!",
+        "bold": true,
+        "color": "green"
+    },
+    "tip":{
+        "text": "Despite what the Astral Tome says; Cave Illuminators work during the day too!"
+    }
+}
