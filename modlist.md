@@ -68,6 +68,7 @@ Sorting is done my mod file name (as listed by GDLauncher)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Neopolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)
 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) ...is a mod by Vazkii
+- [Ore Unify](https://www.curseforge.com/minecraft/mc-mods/ore-unify)
 - [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/arcanefundamentals)
 - [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
 - [Overpowered Mending](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)

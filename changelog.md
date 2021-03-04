@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+---
+
+## [Released]
+
 ## [2.0.0-rc1] - 2021-02-19
 - Hopefully the last one
 - Updated to Forge 36.0.40
@@ -18,6 +22,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Fairy Lights
 - Jade
 - Open Loader
+- Ore Unify
 - Platforms
 - TerraForged
 - Tetranomicon
@@ -58,10 +63,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - The Abyss
 - Tom's Storage
 - Waystones
-
----
-
-## [Released]
 
 ## [2.0.0-alpha.3] - 2021-02-13
 
@@ -143,3 +144,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [2.0.0-alpha.1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0-alpha.1
 [2.0.0-alpha.2]: https://github.com/WindFox/MangoCraft/releases/tag/2.0-alpha.2
 [2.0.0-alpha.3]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-alpha.3
+[2.0.0-rc1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-rc1
