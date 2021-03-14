@@ -5,6 +5,52 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.0.0] - 2021-03-13
+### The Release!
+- Updated to Forge 36.0.55
+
+### Added
+- Polymorph
+
+### Updated
+- Abnormals Core
+- Large Ore Deposits
+- Alex's Mobs
+- Architectury
+- Attribute Fix
+- Backpacked
+- YUNG's Better Mineshafts
+- YUNG's Better Portals
+- Botany Pots
+- Buzzier Bees
+- Curios
+- Curious Elytra
+- OpenBlocks Elevator
+- Engineer's Decor
+- Enigmatic Legacy
+- Fancy Menu
+- FTB Chunks
+- FTB GUI Library
+- FTB Teams
+- Immersive Engineering
+- Immersive Petroleum
+- Immersive Posts
+- Jade
+- Konkrete
+- Majruszs Difficulty
+- Mana and Artifice
+- Platforms
+- Potion Descriptions
+- Repurposed Structures
+- Savage and Ravage
+- Silent Lib
+- Stables
+- Supplementaries
+- Tetra
+- The Abyss
+- Tom's Storage
+- Torch Bandolier
+
 ---
 
 ## [Released]

@@ -75,6 +75,7 @@ Sorting is done my mod file name (as listed by GDLauncher)
 - [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
 - [Pillagers](https://www.curseforge.com/minecraft/mc-mods/pillagers)
 - [Platforms](https://www.curseforge.com/minecraft/mc-mods/platforms)
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [Prefab](https://www.curseforge.com/minecraft/mc-mods/prefab)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) Oddities will not return as most of the features are duplicated or changed by other mods.
 - [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
