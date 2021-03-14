@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+
+---
+
+## [Released]
+
 ## [2.0.0] - 2021-03-13
 ### The Release!
 - Updated to Forge 36.0.55
@@ -50,10 +55,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - The Abyss
 - Tom's Storage
 - Torch Bandolier
-
----
-
-## [Released]
 
 ## [2.0.0-rc1] - 2021-02-19
 - Hopefully the last one
@@ -191,3 +192,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [2.0.0-alpha.2]: https://github.com/WindFox/MangoCraft/releases/tag/2.0-alpha.2
 [2.0.0-alpha.3]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-alpha.3
 [2.0.0-rc1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-rc1
+[2.0.0]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3238855
