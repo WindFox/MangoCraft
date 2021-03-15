@@ -1,0 +1,10 @@
+{
+    "title": {
+        "text": "Save your coal!",
+        "bold": true,
+        "color": "green"
+    },
+    "tip":{
+        "text": "Things like the Runeforge from Mana and Artifice and Create's Blast Furnace/Smoker do not need fuel to run. Use these to save your coal for more important things, like torches!"
+    }
+}
