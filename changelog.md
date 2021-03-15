@@ -5,6 +5,16 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.0.1] - 2021.03.14
+The post-release performance booster
+
+### Added
+- FerriteCore
+- Performant
+- RandomPatches
+
+### Downgraded
+- Curios (4.0.5.0 -> 4.0.4.0): Should fix curios unequipping at login.
 
 ---
 
@@ -193,3 +203,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [2.0.0-alpha.3]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-alpha.3
 [2.0.0-rc1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-rc1
 [2.0.0]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3238855
+[2.0.1]: h
