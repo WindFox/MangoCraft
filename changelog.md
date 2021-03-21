@@ -5,20 +5,54 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
-## [2.0.1] - 2021.03.14
+---
+
+## [Released]
+
+## [2.0.1] - 2021.03.21
 The post-release performance booster
 
 ### Added
+- Chunk Pregenerator
 - FerriteCore
+- Iron Chests
+- Metal Barrels
 - Performant
 - RandomPatches
+- Storage Drawers
 
 ### Downgraded
 - Curios (4.0.5.0 -> 4.0.4.0): Should fix curios unequipping at login.
 
----
+### Removed
+- Nether Protal Fix: Not needed since Better Protals is installed.
 
-## [Released]
+### Updated
+- Alex's Mobs
+- Arcane Fundamentals (Finally fixing my pack release issues.)
+- Architectury
+- Autumnity
+- Berry Good
+- Better Mineshafts
+- Bookshelf
+- Bountiful
+- Champions
+- Cooking for Blockheads
+- Create Crafts & Additions
+- Dim Dungeons
+- Enchantment Descriptions
+- Engineer's decor
+- Enigmatic Legacy: Should fix curios unequipping at login.
+- Fancy Menu
+- Forge Endertech
+- JEI
+- Konkrete
+- Mana and Artifice
+- Repurposed Structures
+- Scuba Gear
+- Spark
+- Supplementaries
+
 
 ## [2.0.0] - 2021-03-13
 ### The Release!
@@ -203,4 +237,4 @@ The post-release performance booster
 [2.0.0-alpha.3]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-alpha.3
 [2.0.0-rc1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-rc1
 [2.0.0]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3238855
-[2.0.1]: h
+[2.0.1]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3247057
