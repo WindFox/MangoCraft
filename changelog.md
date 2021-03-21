@@ -20,9 +20,6 @@ The post-release performance booster
 - RandomPatches
 - Storage Drawers
 
-### Downgraded
-- Curios (4.0.5.0 -> 4.0.4.0): Should fix curios unequipping at login.
-
 ### Removed
 - Nether Protal Fix: Not needed since Better Protals is installed.
 
@@ -41,7 +38,7 @@ The post-release performance booster
 - Dim Dungeons
 - Enchantment Descriptions
 - Engineer's decor
-- Enigmatic Legacy: Should fix curios unequipping at login.
+- Enigmatic Legacy: Thought it fixed curios unequipping at login. It does not.
 - Fancy Menu
 - Forge Endertech
 - JEI
