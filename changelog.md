@@ -13,7 +13,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 The post-release performance booster
 
 ### Added
-- Chunk Pregenerator
 - FerriteCore
 - Iron Chests
 - Metal Barrels
