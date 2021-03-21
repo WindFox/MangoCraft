@@ -68,5 +68,10 @@
     "show_states": false,
     "show_entity_hp": true,
     "show_entities": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }

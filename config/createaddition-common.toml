@@ -82,3 +82,15 @@
 	#Range: 0 ~ 1024
 	rolling_mill_stress = 16
 
+#Accumulator
+[accumulator]
+	#Accumulator max input (Energy transfer).
+	#Range: > 0
+	accumulator_max_input = 8192
+	#Accumulator max output (Energy transfer).
+	#Range: > 0
+	accumulator_max_output = 8192
+	#Accumulator internal capacity.
+	#Range: > 0
+	accumulator_capacity = 4196000
+
