@@ -5,6 +5,61 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+## [2.1.0] - 2021.03.23
+### The Sweet Rolls
+- Updated to Forge 34.1.4
+- Added KubeJS to tweak some things: These will now be listed under 'Changes'.
+- Added default resource pack to change the vanilla ores to theier 1.17 textures. (Remember, this IS 1.16.5)
+
+### Added
+- Allurement
+- Create: Stuff Additions
+- Environmental
+- KubeJS
+- Personality
+- Seasonals
+
+### Updated
+- Large Ore Deposits
+- Alex's Mobs
+- Architectury
+- Atmospheric
+- Backpacked/Backpacker
+- Berry Good
+- Caged Mobs (Sampling now can be done safely with an off-hand item)
+- Clumps
+- Crash Utils
+- Create (CINNAMON ROLLS! Yes I know they're sweet rolls, but they LOOK like cinnamon rolls.)
+- Create Additions
+- Dim Dungeons
+- Doggy Talents
+- Dungeons Plus
+- Dynamic Surroundings
+- Engineer's Decor
+- Fancy Menu
+- Ferrite Core
+- FTB Chunks
+- Gecko Lib
+- Guard Villagers
+- JEI
+- Kotlin
+- Lootr
+- Majrusz Lib
+- Macaw's Paintings
+- Macaw's Trapdoors
+- Mantle
+- Mining Helmet
+- Outer End
+- Performant
+- Quark
+- Repurposed Structures
+- Snow Under Trees
+- Structure Gel
+- Supplementaries
+- Tetranomicon
+- Upgrade Aquatic
+- Yung's API
+
 ---
 
 ## [Released]
