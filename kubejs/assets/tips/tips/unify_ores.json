@@ -1,0 +1,10 @@
+{
+    "title": {
+        "text": "Ore Unification!",
+        "bold": true,
+        "color": "green"
+    },
+    "tip":{
+        "text": "Ores should unify themselves when they are dropped. If you somehow have different types of ores in your pockets and need space, try dropping the ores on the ground. This should trigger the unifier."
+    }
+}

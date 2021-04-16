@@ -5,11 +5,26 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
-## [2.1.0] - 2021.03.23
+
+
+---
+
+## [Released]
+
+## [2.1.0] - 2021.04.15
 ### The Sweet Rolls
 - Updated to Forge 34.1.4
+- This SHOULD fix the Curio and reconnect issues.
 - Added KubeJS to tweak some things: These will now be listed under 'Changes'.
 - Added default resource pack to change the vanilla ores to theier 1.17 textures. (Remember, this IS 1.16.5)
+
+### Changes
+- Blood Magic's controlled charges should no longer be craftable. It seems that the issue with them might not be solved by the mod author anytime soon.
+- Added some more materials from Create and Astral Sorcery to Tetra. (Celestial crystal pickaxes, whoo!)
+
+### Removed
+- Crash Utilities (It was useful.... until it messes up the network connection.)
+- oreUnify (Project was removed from CurseForge for unknown reasons)
 
 ### Added
 - Allurement
@@ -18,6 +33,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - KubeJS
 - Personality
 - Seasonals
+- Unified Resources (Replaces oreUnify)
 
 ### Updated
 - Large Ore Deposits
@@ -31,16 +47,19 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Crash Utils
 - Create (CINNAMON ROLLS! Yes I know they're sweet rolls, but they LOOK like cinnamon rolls.)
 - Create Additions
+- Curios (Does this finally fix the issue caused by Endergenic?)
 - Dim Dungeons
 - Doggy Talents
 - Dungeons Plus
 - Dynamic Surroundings
+- Enchantment Descriptions
 - Engineer's Decor
 - Fancy Menu
 - Ferrite Core
 - FTB Chunks
 - Gecko Lib
 - Guard Villagers
+- Jade
 - JEI
 - Kotlin
 - Lootr
@@ -51,6 +70,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Mining Helmet
 - Outer End
 - Performant
+- Prefab
 - Quark
 - Repurposed Structures
 - Snow Under Trees
@@ -59,10 +79,6 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Tetranomicon
 - Upgrade Aquatic
 - Yung's API
-
----
-
-## [Released]
 
 ## [2.0.1] - 2021.03.21
 The post-release performance booster
@@ -289,3 +305,4 @@ The post-release performance booster
 [2.0.0-rc1]: https://github.com/WindFox/MangoCraft/releases/tag/2.0.0-rc1
 [2.0.0]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3238855
 [2.0.1]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3247057
+[2.1.0]: https://www.curseforge.com/minecraft/modpacks/mangocraft/files/3278573

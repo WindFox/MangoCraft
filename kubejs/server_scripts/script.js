@@ -9,6 +9,7 @@ console.info('Hello, World! (You will see this line every time server resources 
 
 onEvent('recipes', event => {
 	// Change recipes here
+	event.remove({output: 'bloodmagic:veinmine_charge'})
 })
 
 onEvent('item.tags', event => {
