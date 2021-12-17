@@ -5,17 +5,6 @@
 	#Turn off world generation features in Better Default Biomes.
 	[World.Generation]
 
-		[World.Generation.Trees]
-			Palm_Trees = true
-			Swamp_Willow_Trees = true
-
-		[World.Generation.Plants]
-			Feather_Reed_Grass = true
-			Dead_Grass = true
-			Dune_Grass = true
-			Short_Grass = true
-			Tall_Water_Reeds = true
-
 		[World.Generation.Flowers]
 			Blue_Poppy = true
 			Mushrooms = true
@@ -228,23 +217,6 @@
 		#Spawn weight for the Desert Bandits. (Default: 90)
 		#Range: 0 ~ 10000
 		weight = 90
-
-#Extensive Config options for all the Generation Features.
-[Generation]
-
-	[Generation.Trees]
-
-		[Generation.Trees.Palm_Trees]
-			#Generation Biomes/BiomeCategories where Palm Trees will generate.
-			#To add Biomes or Categories:
-			#["Category 1", "Category 2", "Biome 1", "Biome 2", etc...]
-			generation_biomes = ["minecraft:beach"]
-
-		[Generation.Trees.Swamp_Willow_Trees]
-			#Generation Biomes/BiomeCategories where Swamp Willow Trees will generate.
-			#To add Biomes or Categories:
-			#["Category 1", "Category 2", "Biome 1", "Biome 2", etc...]
-			generation_biomes = ["swamp"]
 
 #Debug options for Better Default Biomes.
 [Debug]

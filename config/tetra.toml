@@ -88,6 +88,4 @@
 	stonecutter = true
 	#Enable the extractor bedrock functionality
 	extractor = true
-	#Enable secret experimental feature
-	secret = false
 

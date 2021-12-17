@@ -1,0 +1,6 @@
+
+#Arcane Fundamentals // Server Settings
+[af_server_settings]
+	#Enable to allow creating a Codex Arcana by using a manaweaveing wand on an item frame containing a book.
+	codex_alternate = false
+

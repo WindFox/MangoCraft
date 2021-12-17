@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning]....somewhat.
 
 ## [Unreleased]
+## [2.2.0] - 2021.12.17
+### The 'Holy Crap, It's Been A While' Update
+- Updated to Forge 36.2.22 (This fixes the MAJOR Log4J security issue.)
+- Unless something else happens, this will be the final pack update.
+
+### Added
+- Create Plus (Adds a Goggle Curio slot)
+- Create Deco (More blocks to build with)
+- Create Gears (Shaftless and cheaper gears)
+- Create Confectionery (More foodstuffs)
+- Create Cafe (More drinks)
+- Just Enough Professions (Now you can see the job blocks are for villagers)
+- Just Enough Piglin Bartering (See what the piglins will trade for)
+- Just Enough Effect Descriptions (Now you can see what the buff and debuffs do!)
+- Selene (Required for Supplementaries)
+- Flywheel (Required for Create)
+- Magnesium (Performance)
+- Towers of the Wild: Reloaded (Should have the thread issues fixed)
+
+### Updated
+Normally, I'd put a list here, but since over 75% (128 of 165) of the mods have been updated, I'm just gonna put this here:
+- (mostly) EVERYTHING HAS BEEN UPDATED!
 
 
 
