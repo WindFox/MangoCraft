@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog][Keep a Changelog] and this project adheres to [Semantic Versioning][Semantic Versioning]....somewhat.
 
 ## [Unreleased]
+
+---
+
+## [Released]
+
 ## [2.2.0] - 2021.12.17
 ### The 'Holy Crap, It's Been A While' Update
 - Updated to Forge 36.2.22 (This fixes the MAJOR Log4J security issue.)
@@ -22,16 +27,11 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Flywheel (Required for Create)
 - Magnesium (Performance)
 - Towers of the Wild: Reloaded (Should have the thread issues fixed)
+- BiomeIDFixer (Fixes an issue with the biomes shuffling when this update is applied)
 
 ### Updated
 Normally, I'd put a list here, but since over 75% (128 of 165) of the mods have been updated, I'm just gonna put this here:
 - (mostly) EVERYTHING HAS BEEN UPDATED!
-
-
-
----
-
-## [Released]
 
 ## [2.1.0] - 2021.04.15
 ### The Sweet Rolls
